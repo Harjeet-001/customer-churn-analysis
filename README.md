@@ -34,6 +34,3 @@ This project analyzes customer behavior to identify key drivers of churn and pro
 - Offer targeted plans or support for senior customers
 - Review pricing strategy for high monthly charge segments
 
-## Dashboard Preview
-![Dashboard](dashboard/churn_dashboard_1.png)
-![Dashboard](dashboard/churn_dashboard_2.png)
