@@ -28,6 +28,30 @@ This project analyzes customer behavior to identify key drivers of churn and pro
 - Higher monthly charges are associated with increased churn
 - Long-tenure customers show strong retention behavior
 
+##  Executive Summary (Dashboard Interpretation)
+
+The overall customer churn rate is 26.58%, meaning roughly 1 in 4 customers leave, which indicates a serious retention issue.
+
+Churn has increased by 1.58%, showing that customer retention is deteriorating over time.
+
+Key Drivers of Churn
+
+Contract Type:
+Customers on month-to-month contracts churn significantly more than those on 1-year or 2-year contracts, indicating lack of commitment is a major risk factor.
+
+Customer Tenure:
+Customers in their first 12 months have the highest churn rate, while long-tenure customers show strong loyalty.
+
+Senior Citizens:
+Senior customers churn at a much higher rate compared to non-seniors, suggesting current plans or support do not meet their needs.
+
+Pricing:
+Customers with higher monthly charges appear more likely to churn, indicating potential price sensitivity.
+
+Business Implication
+
+Churn is primarily driven by short-term contracts, early customer lifecycle, and vulnerable customer segments. Retention strategies should focus on early engagement, contract upgrades, and targeted support for high-risk groups.
+
 ## Business Recommendations
 - Incentivize customers to move from month-to-month to long-term contracts
 - Implement early-tenure retention programs within the first year
