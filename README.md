@@ -7,7 +7,7 @@ This project analyzes customer behavior to identify key drivers of churn and pro
 ## Dataset
 - Source: Telco Customer Churn Dataset (Kaggle)
 - Records: 7,032 customers
-- Target variable: Churn (Yes / No)
+- Target variable: Churn (Yes  / No)
 
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
